@@ -1,4 +1,4 @@
-# HospitalManagementSystem
+# ClinicManagementSystem
 
 As part of our WPL MINI Project, Varshaah & I  made a Hospital Management System
 
