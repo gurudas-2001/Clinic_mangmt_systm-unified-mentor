@@ -24,14 +24,6 @@ As part of our WPL MINI Project, Varshaah & I  made a Hospital Management System
 * UI Designing : Canva
 * Hosting : Heroku
 
-# Contributors
-| Sr No. | Name               | E-mail                       | git-profile     | Roll No.        |
-| -------| -------------------| -----------------------------| ----------------| ----------------|
-| 1.     | Varshaah Karkala   | varshaah.k@somaiya.edu       | varshaah2407    | 16010120193     |
-| 2.     | Shruti Tyagi       | shruti.tyagi@somaiya.edu     | shrutityagi4102 | 16010120202     |
 
-
-# Institute
-![somaiya logo](https://user-images.githubusercontent.com/79756939/144486512-eb0cba46-18a8-4ce8-bf5c-0d256ea5d46b.jpeg)
 
 
